@@ -27,6 +27,8 @@ dependencies {
     // This dependency is used by the application.
     implementation("com.google.guava:guava:31.1-jre")
     implementation("org.springframework.boot:spring-boot-starter-web")
+    implementation("org.jitsi:ice4j:3.0-68-gd289f12")
+    
 }
 
 application {
