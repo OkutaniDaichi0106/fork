@@ -27,6 +27,7 @@ dependencies {
     // This dependency is used by the application.
     implementation("com.google.guava:guava:31.1-jre")
     implementation("org.springframework.boot:spring-boot-starter-web")
+    //implementation("dev.onvoid.webrtc:webrtc-java:0.8.0")
 }
 
 application {
