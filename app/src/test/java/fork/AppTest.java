@@ -4,6 +4,9 @@
 package fork;
 
 import org.junit.jupiter.api.Test;
+
+import fork.stun.Stun;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
